@@ -1,0 +1,3 @@
+# Go module and dependency files
+[mappings]
+"Go" = ["**/go.mod", "**/go.sum"]
